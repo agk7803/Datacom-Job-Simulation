@@ -68,8 +68,8 @@ An interactive web application developed as part of the **Datacom Software Devel
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/agk7803/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/agk7803/Datacom-Job-Simulation.git
+   cd Datacom-Job-Simulation
    ```
 
 2. Install dependencies:
