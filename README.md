@@ -129,7 +129,8 @@ npm run build
 
 ---
 
-## 📄 License & Attribution
+## 📄 Certificate & Attribution
 
-This project was built as part of the **Datacom Software Development Job Simulation** on [Forage](https://www.theforage.com/).
-Dataset and starter template provided by **Datacom**.
+- **Completion Certificate**: See [Datacom_Completion_Certificate.pdf](Datacom_Completion_Certificate.pdf) for the official certificate of completion.
+- Built as part of the **Datacom Software Development Job Simulation** on [Forage](https://www.theforage.com/).
+- Dataset and starter template provided by **Datacom**.
